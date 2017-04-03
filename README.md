@@ -2,7 +2,7 @@
 Will contain jobs description and what aim to be.
 
 # Prerequisites
-- Feedly with https://hackernoon.com/
+- Feedly : https://hackernoon.com/
 - Git, Gitflow, Github : https://danielkummer.github.io/git-flow-cheatsheet/
 - Shell script : https://gist.github.com/LeCoupa/122b12050f5fb267e75f
 - Semantic Versioning via Commitizen https://github.com/commitizen/cz-cli
@@ -15,6 +15,7 @@ Will contain jobs description and what aim to be.
 - Jest : https://facebook.github.io/jest/
 
 # Full Stack Engineer
+- Feedly : https://dev-blog.apollodata.com/
 - React : https://github.com/vasanthk/react-bits
 - GraphQL : http://graphql.org/learn/
 - Apollo : http://dev.apollodata.com/
@@ -24,6 +25,12 @@ Will contain jobs description and what aim to be.
 - Development Environment : Development Server, HMR, ...
 - Production Environment : Secure, Speed, Scale, HA, ...
 
+# Chatbot Engineer
+- Feedly : https://chatbotsmagazine.com/
+- Backend language : NodeJS, ES6+
+- wit.ai : https://wit.ai/
+- Pub/Sub
+
 # DevOps
 - Microservice Architecture : https://github.com/katopz/best-practices/blob/master/best-practices-for-building-a-microservice-architecture.md
 - CI/CD
@@ -31,9 +38,3 @@ Will contain jobs description and what aim to be.
 - High Avalibility : Region
 - Security Assurance
 - Performance Assurance
-
-
-# Chatbot Engineer
-- Feedly with https://chatbotsmagazine.com/
-- Backend language : NodeJS, ES6+
-- wit.ai : https://wit.ai/
