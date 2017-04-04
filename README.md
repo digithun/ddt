@@ -42,6 +42,6 @@ Will contain jobs description and what aim to be.
 - Microservice Architecture : https://github.com/katopz/best-practices/blob/master/best-practices-for-building-a-microservice-architecture.md
 - CI/CD
 - Quality Assurance : Automate test
-- High Avalibility : Region
+- High Avalibility : Region Scale, Floatig IP, Docker Flow Proxy
 - Security Assurance
 - Performance Assurance
