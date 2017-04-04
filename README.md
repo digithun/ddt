@@ -7,25 +7,32 @@ Will contain jobs description and what aim to be.
 - Shell script : https://gist.github.com/LeCoupa/122b12050f5fb267e75f
 - Semantic Versioning via Commitizen https://github.com/commitizen/cz-cli
 - Network Performance : https://developers.google.com/speed/docs/insights/about
-- Web : https://developers.google.com/web/fundamentals/performance/
+- Web Performance : https://developers.google.com/web/fundamentals/performance/
 - Web Security : https://developers.google.com/web/fundamentals/security/
-- ES6 : https://github.com/DrkSephy/es6-cheatsheet
-- ES6 : https://github.com/smmoosavi/uglovely-es6
-- ESLint : http://eslint.org/
-- Jest : https://facebook.github.io/jest/
 
-# Full Stack Engineer
+# Full Stack JS Engineer
 - Feedly : https://dev-blog.apollodata.com/
-- React : https://github.com/vasanthk/react-bits
 - GraphQL : http://graphql.org/learn/
 - Apollo : http://dev.apollodata.com/
 - MongoDB : Mongoose, Pooling, Replication, Sharding, Capped Collections, ...
-- Docker : Docker file, Docker Compose, Docker Swarm Mode, Docker Machine, Docker Stacks, ...
+- Docker : Docker file, Docker Compose 3.1, Docker Swarm Mode, Docker Machine, Docker Stacks, Docker Secret, ...
+- Docker Flow Proxy : https://proxy.dockerflow.com/swarm-mode-stack/
 - Localization
 - Development Environment : Development Server, HMR, ...
 - Production Environment : Secure, Speed, Scale, HA, ...
 
-# Chatbot Engineer
+# Wep Developer
+- ES6 : https://github.com/DrkSephy/es6-cheatsheet
+- ES6 : https://github.com/smmoosavi/uglovely-es6
+- ESLint : http://eslint.org/
+- Jest : https://facebook.github.io/jest/
+- React : https://github.com/vasanthk/react-bits
+
+# Mobile App Developer
+- React Native
+- Offline First
+
+# Chatbot Developer
 - Feedly : https://chatbotsmagazine.com/
 - Backend language : NodeJS, ES6+
 - wit.ai : https://wit.ai/
