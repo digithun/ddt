@@ -1,3 +1,7 @@
+![](https://raw.githubusercontent.com/digithun/ddt/master/art/ddt.png)
+
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+
 # DDT - Digithun Developer Team
 Will contain jobs description and what aim to be.
 
