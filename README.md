@@ -32,6 +32,8 @@ Will contain jobs description and what aim to be.
 - Jest : https://facebook.github.io/jest/
 - React : https://github.com/vasanthk/react-bits
 
+- Composing functional : [A Functional Programmer’s Introduction to JavaScript](https://medium.com/javascript-scene/a-functional-programmers-introduction-to-javascript-composing-software-d670d14ede30)
+
 # Mobile App Developer
 - React Native
 - Offline First
