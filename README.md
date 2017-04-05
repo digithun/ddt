@@ -52,15 +52,16 @@ Will contain jobs description and what aim to be.
 - Redis
 - Pub/Sub
 - Docker : Docker Swarm Mode, Docker Machine, Docker Stacks, Docker Secret
-- HA : Docker Flow Proxy : https://proxy.dockerflow.com/swarm-mode-stack/
 - Docker Driver : https://hackernoon.com/how-to-properly-run-docker-on-rhel-and-friends-d055754414e5#.1z2ps9ycr
 
 # DevOps
 - Microservice Architecture : https://github.com/katopz/best-practices/blob/master/best-practices-for-building-a-microservice-architecture.md
 - CI/CD
 - Quality Assurance : Automate test
-- High Avalibility : Region Scale, Floatig IP, Docker Flow Proxy
+- High Avalibility : Region Scale, Floatig IP, [Docker Flow Proxy](https://proxy.dockerflow.com/swarm-mode-stack/)
 - Security Assurance
 - Performance Assurance
 - Chaos Testing : http://blog.terranillius.com/post/pumba_docker_chaos_testing/
 - Blue/Green Deployment : https://technologyconversations.com/2017/01/31/blue-green-deployments-with-docker-services-running-inside-a-swarm-cluster/
+- Blue/Green Deployment : https://botleg.com/stories/blue-green-deployment-with-docker/
+- cAdvisor/influxDB/Grafana : https://botleg.com/stories/monitoring-docker-swarm-with-cadvisor-influxdb-and-grafana/
