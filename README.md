@@ -47,10 +47,14 @@ Will contain jobs description and what aim to be.
 
 # Backend Developer
 - Feedly : https://blog.risingstack.com/
-- NodeJS
+- Digital Ocean : Domain Name Setup, EMail Setup, Floating IP, Block Storage
+- NodeJS : fs, Process
+- ExpressJS
+- PassportJS
 - MongoDB : Mongoose, Pooling, Replication, Sharding, Capped Collections, ...
 - Redis
 - Pub/Sub
+- Nginx : TLS (CertBot), Proxy Forward, Secure Header
 - Docker : Docker Swarm Mode, Docker Machine, Docker Stacks, Docker Secret
 - Docker Driver : https://hackernoon.com/how-to-properly-run-docker-on-rhel-and-friends-d055754414e5#.1z2ps9ycr
 
