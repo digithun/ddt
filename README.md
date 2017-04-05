@@ -42,8 +42,8 @@ Will contain jobs description and what aim to be.
 
 # Chatbot Developer
 - Feedly : https://chatbotsmagazine.com/
+- API : https://medium.com/@Conversate/natural-language-apis-for-bots-e791f090e32f
 - wit.ai : https://wit.ai/
-- Pub/Sub
 
 # Backend Developer
 - Feedly : https://blog.risingstack.com/
