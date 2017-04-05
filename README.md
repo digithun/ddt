@@ -8,8 +8,8 @@ Will contain jobs description and what aim to be.
 # Prerequisites
 - Feedly : https://hackernoon.com/
 - Git, Gitflow, Github : https://danielkummer.github.io/git-flow-cheatsheet/
-- Shell script : https://gist.github.com/LeCoupa/122b12050f5fb267e75f
 - Semantic Versioning via Commitizen https://github.com/commitizen/cz-cli
+- Shell script : https://gist.github.com/LeCoupa/122b12050f5fb267e75f
 - Network Performance : https://developers.google.com/speed/docs/insights/about
 - Web Performance : https://developers.google.com/web/fundamentals/performance/
 - Web Security : https://developers.google.com/web/fundamentals/security/
@@ -27,13 +27,14 @@ Will contain jobs description and what aim to be.
 - Apollo : http://dev.apollodata.com/
 - GraphQL Compose : https://github.com/nodkz/graphql-compose
 - MongoDB : [Mongoose](http://mongoosejs.com/)
-- Docker : Docker file, Docker Compose 3.1, Docker Swarm Mode, Docker Machine, Docker Stacks, Docker Secret, ...
+- Docker : Docker file, Docker Compose 3.1, ...
 - Development Environment : Development Server, HMR, ...
 - Production Environment : Secure, Speed, Scale, HA, ...
 
 # Wep Developer
 - React : https://github.com/vasanthk/react-bits
 - Composing functional : [A Functional Programmer’s Introduction to JavaScript](https://medium.com/javascript-scene/a-functional-programmers-introduction-to-javascript-composing-software-d670d14ede30)
+- NextJS : https://github.com/zeit/next.js
 
 # Mobile App Developer
 - React Native
@@ -41,19 +42,18 @@ Will contain jobs description and what aim to be.
 
 # Chatbot Developer
 - Feedly : https://chatbotsmagazine.com/
-- Backend language : NodeJS, ES6+
 - wit.ai : https://wit.ai/
 - Pub/Sub
-
-# Desktop Developer
-- Electron: https://electron.atom.io/
 
 # Backend Developer
 - Feedly : https://blog.risingstack.com/
 - NodeJS
 - MongoDB : Mongoose, Pooling, Replication, Sharding, Capped Collections, ...
 - Redis
-- Docker Flow Proxy : https://proxy.dockerflow.com/swarm-mode-stack/
+- Pub/Sub
+- Docker : Docker Swarm Mode, Docker Machine, Docker Stacks, Docker Secret
+- HA : Docker Flow Proxy : https://proxy.dockerflow.com/swarm-mode-stack/
+- Docker Driver : https://hackernoon.com/how-to-properly-run-docker-on-rhel-and-friends-d055754414e5#.1z2ps9ycr
 
 # DevOps
 - Microservice Architecture : https://github.com/katopz/best-practices/blob/master/best-practices-for-building-a-microservice-architecture.md
@@ -62,3 +62,5 @@ Will contain jobs description and what aim to be.
 - High Avalibility : Region Scale, Floatig IP, Docker Flow Proxy
 - Security Assurance
 - Performance Assurance
+- Chaos Testing : http://blog.terranillius.com/post/pumba_docker_chaos_testing/
+- Blue/Green Deployment : https://technologyconversations.com/2017/01/31/blue-green-deployments-with-docker-services-running-inside-a-swarm-cluster/
