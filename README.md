@@ -32,7 +32,7 @@ Will contain jobs description and what aim to be.
 - Production Environment : Secure, Speed, Scale, HA, ...
 
 # Wep Developer
-- React : https://github.com/vasanthk/react-bits
+- React : https://vasanthk.gitbooks.io/react-bits/
 - Composing functional : [A Functional Programmer’s Introduction to JavaScript](https://medium.com/javascript-scene/a-functional-programmers-introduction-to-javascript-composing-software-d670d14ede30)
 - NextJS : https://github.com/zeit/next.js
 
