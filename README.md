@@ -14,24 +14,25 @@ Will contain jobs description and what aim to be.
 - Web Performance : https://developers.google.com/web/fundamentals/performance/
 - Web Security : https://developers.google.com/web/fundamentals/security/
 
+# Editor
+- VSCode : https://code.visualstudio.com/
+- Lint : `eslint:recommended`, `plugin:react/recommended`
+
 # Full Stack JS Engineer
 - Feedly : https://dev-blog.apollodata.com/
+- ES6 : [cheatsheet](https://github.com/DrkSephy/es6-cheatsheet), [uglovely-es6](https://github.com/smmoosavi/uglovely-es6)
+- ESLint : http://eslint.org/
+- Jest : https://facebook.github.io/jest/
 - GraphQL : http://graphql.org/learn/
 - Apollo : http://dev.apollodata.com/
-- MongoDB : Mongoose, Pooling, Replication, Sharding, Capped Collections, ...
+- GraphQL Compose : https://github.com/nodkz/graphql-compose
+- MongoDB : [Mongoose](http://mongoosejs.com/)
 - Docker : Docker file, Docker Compose 3.1, Docker Swarm Mode, Docker Machine, Docker Stacks, Docker Secret, ...
-- Docker Flow Proxy : https://proxy.dockerflow.com/swarm-mode-stack/
-- Localization
 - Development Environment : Development Server, HMR, ...
 - Production Environment : Secure, Speed, Scale, HA, ...
 
 # Wep Developer
-- ES6 : https://github.com/DrkSephy/es6-cheatsheet
-- ES6 : https://github.com/smmoosavi/uglovely-es6
-- ESLint : http://eslint.org/
-- Jest : https://facebook.github.io/jest/
 - React : https://github.com/vasanthk/react-bits
-
 - Composing functional : [A Functional Programmer’s Introduction to JavaScript](https://medium.com/javascript-scene/a-functional-programmers-introduction-to-javascript-composing-software-d670d14ede30)
 
 # Mobile App Developer
@@ -43,6 +44,16 @@ Will contain jobs description and what aim to be.
 - Backend language : NodeJS, ES6+
 - wit.ai : https://wit.ai/
 - Pub/Sub
+
+# Desktop Developer
+- Electron: https://electron.atom.io/
+
+# Backend Developer
+- Feedly : https://blog.risingstack.com/
+- NodeJS
+- MongoDB : Mongoose, Pooling, Replication, Sharding, Capped Collections, ...
+- Redis
+- Docker Flow Proxy : https://proxy.dockerflow.com/swarm-mode-stack/
 
 # DevOps
 - Microservice Architecture : https://github.com/katopz/best-practices/blob/master/best-practices-for-building-a-microservice-architecture.md
