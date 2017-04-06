@@ -9,10 +9,12 @@ Will contain jobs description and what aim to be.
 - Feedly : https://hackernoon.com/
 - Git, Gitflow, Github : https://danielkummer.github.io/git-flow-cheatsheet/
 - Semantic Versioning via Commitizen https://github.com/commitizen/cz-cli
-- Shell script : https://gist.github.com/LeCoupa/122b12050f5fb267e75f
+- Bash CheatSheet : https://gist.github.com/LeCoupa/122b12050f5fb267e75f
+- Bash : https://github.com/Idnan/bash-guide
 - Network Performance : https://developers.google.com/speed/docs/insights/about
 - Web Performance : https://developers.google.com/web/fundamentals/performance/
 - Web Security : https://developers.google.com/web/fundamentals/security/
+- Test : https://medium.com/@talkol/redux-testing-step-by-step-a-simple-methodology-for-testing-business-logic-8901670756ce
 
 # Editor
 - VSCode : https://code.visualstudio.com/
@@ -23,6 +25,7 @@ Will contain jobs description and what aim to be.
 - ES6 : [cheatsheet](https://github.com/DrkSephy/es6-cheatsheet), [uglovely-es6](https://github.com/smmoosavi/uglovely-es6)
 - ESLint : http://eslint.org/
 - Jest : https://facebook.github.io/jest/
+- Redux : http://redux.js.org/
 - GraphQL : http://graphql.org/learn/
 - Apollo : http://dev.apollodata.com/
 - GraphQL Compose : https://github.com/nodkz/graphql-compose
@@ -31,21 +34,23 @@ Will contain jobs description and what aim to be.
 - Development Environment : Development Server, HMR, ...
 - Production Environment : Secure, Speed, Scale, HA, ...
 
-# Wep Developer
+# Full Stack + Wep
+- Feedly : https://tympanus.net/codrops/
 - React : https://vasanthk.gitbooks.io/react-bits/
 - Composing functional : [A Functional Programmer’s Introduction to JavaScript](https://medium.com/javascript-scene/a-functional-programmers-introduction-to-javascript-composing-software-d670d14ede30)
 - NextJS : https://github.com/zeit/next.js
 
-# Mobile App Developer
+# Full Stack + Mobile
 - React Native
+- React Component : 
 - Offline First
 
-# Chatbot Developer
+# Full Stack + Chatbot
 - Feedly : https://chatbotsmagazine.com/
 - Natural Language APIs For Bots : https://medium.com/@Conversate/natural-language-apis-for-bots-e791f090e32f
 - wit.ai : https://wit.ai/
 
-# Backend Developer
+# Full Stack + Backend
 - Feedly : https://blog.risingstack.com/
 - Digital Ocean : Domain Name Setup, EMail Setup, Floating IP, Block Storage
 - NodeJS : fs, Process
@@ -58,7 +63,7 @@ Will contain jobs description and what aim to be.
 - Docker : Docker Swarm Mode, Docker Machine, Docker Stacks, Docker Secret
 - Docker Driver : https://hackernoon.com/how-to-properly-run-docker-on-rhel-and-friends-d055754414e5#.1z2ps9ycr
 
-# DevOps
+# Full Stack + DevOps
 - Microservice Architecture : https://github.com/katopz/best-practices/blob/master/best-practices-for-building-a-microservice-architecture.md
 - CI/CD
 - Quality Assurance : Automate test
