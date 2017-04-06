@@ -51,7 +51,7 @@ Will contain jobs description and what aim to be.
 - wit.ai : https://wit.ai/
 
 # Full Stack + Backend
-- Feedly : https://blog.risingstack.com/
+- Feedly : https://blog.risingstack.com/ , https://nodesource.com/blog
 - Digital Ocean : Domain Name Setup, EMail Setup, Floating IP, Block Storage
 - NodeJS : fs, Process
 - ExpressJS
