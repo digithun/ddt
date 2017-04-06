@@ -64,6 +64,7 @@ Will contain jobs description and what aim to be.
 - Docker Driver : https://hackernoon.com/how-to-properly-run-docker-on-rhel-and-friends-d055754414e5#.1z2ps9ycr
 
 # Full Stack + DevOps
+- Feedly : http://rigor.com/blog
 - Microservice Architecture : https://github.com/katopz/best-practices/blob/master/best-practices-for-building-a-microservice-architecture.md
 - CI/CD
 - Quality Assurance : Automate test
