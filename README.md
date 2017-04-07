@@ -16,8 +16,10 @@ Will contain jobs description and what aim to be.
 - Web Security : https://developers.google.com/web/fundamentals/security/
 - Test : https://medium.com/@talkol/redux-testing-step-by-step-a-simple-methodology-for-testing-business-logic-8901670756ce
 
-# Editor
+# Tools
 - VSCode : https://code.visualstudio.com/
+- RoboMongo : https://robomongo.org/
+- Medis : https://github.com/luin/medis
 - Lint : `eslint:recommended`, `plugin:react/recommended`
 
 # Full Stack JS Engineer
