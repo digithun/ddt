@@ -43,6 +43,7 @@ Will contain jobs description and what aim to be.
 - NextJS : https://github.com/zeit/next.js
 
 # Full Stack + Mobile
+- Feedly : https://blog.prototypr.io/
 - React Native
 - React Component : 
 - Offline First
