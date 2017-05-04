@@ -38,6 +38,7 @@ Will contain jobs description and what aim to be.
 
 # Full Stack + Wep
 - Feedly : https://tympanus.net/codrops/
+- Feedly : https://www.sitepoint.com/
 - React : https://vasanthk.gitbooks.io/react-bits/
 - Composing functional : [A Functional Programmer’s Introduction to JavaScript](https://medium.com/javascript-scene/a-functional-programmers-introduction-to-javascript-composing-software-d670d14ede30)
 - NextJS : https://github.com/zeit/next.js
