@@ -21,6 +21,8 @@ Will contain jobs description and what aim to be.
 - RoboMongo : https://robomongo.org/
 - Medis : https://github.com/luin/medis
 - Lint : `eslint:recommended`, `plugin:react/recommended`
+- Standard JavaScript Format : https://marketplace.visualstudio.com/items?itemName=chenxsan.vscode-standard-format
+- Standard Style : https://marketplace.visualstudio.com/items?itemName=chenxsan.vscode-standardjs
 
 # Full Stack JS Engineer
 - Feedly : https://dev-blog.apollodata.com/
