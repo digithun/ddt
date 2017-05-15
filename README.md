@@ -53,6 +53,7 @@ Will contain jobs description and what aim to be.
 
 # Full Stack + Chatbot
 - Feedly : https://chatbotsmagazine.com/
+- Awesome : https://github.com/BotCube/awesome-bots
 - Natural Language APIs For Bots : https://medium.com/@Conversate/natural-language-apis-for-bots-e791f090e32f
 - wit.ai : https://wit.ai/
 
