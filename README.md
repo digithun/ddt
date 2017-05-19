@@ -24,6 +24,13 @@ Will contain jobs description and what aim to be.
 - Standard JavaScript Format : https://marketplace.visualstudio.com/items?itemName=chenxsan.vscode-standard-format
 - Standard Style : https://marketplace.visualstudio.com/items?itemName=chenxsan.vscode-standardjs
 
+# Test Tools
+- Speed : https://developers.google.com/speed/pagespeed/insights/
+- Secure : https://observatory.mozilla.org/
+- SSL : https://www.ssllabs.com/ssltest/
+- HTTP : https://securityheaders.io/
+- Load Test : https://github.com/devth/alpine-bench
+
 # Full Stack JS Engineer
 - Feedly : https://dev-blog.apollodata.com/
 - ES6 : [cheatsheet](https://github.com/DrkSephy/es6-cheatsheet), [uglovely-es6](https://github.com/smmoosavi/uglovely-es6)
