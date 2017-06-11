@@ -90,3 +90,4 @@ Will contain jobs description and what aim to be.
 - Blue/Green Deployment : https://technologyconversations.com/2017/01/31/blue-green-deployments-with-docker-services-running-inside-a-swarm-cluster/
 - Blue/Green Deployment : https://botleg.com/stories/blue-green-deployment-with-docker/
 - cAdvisor/influxDB/Grafana : https://botleg.com/stories/monitoring-docker-swarm-with-cadvisor-influxdb-and-grafana/
+- Monitoring : https://github.com/firehol/netdata
