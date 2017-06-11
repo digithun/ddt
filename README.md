@@ -78,8 +78,11 @@ Will contain jobs description and what aim to be.
 - Docker : Docker Swarm Mode, Docker Machine, Docker Stacks, Docker Secret
 - Docker Driver : https://hackernoon.com/how-to-properly-run-docker-on-rhel-and-friends-d055754414e5#.1z2ps9ycr
 
+![fee99542-microservices-hierarchy-of-needs](https://user-images.githubusercontent.com/97060/27008143-5898b092-4e94-11e7-9a4c-74c625562108.png)
+
 # Full Stack + DevOps
 - Feedly : http://rigor.com/blog
+- Feedly : https://thenewstack.io/
 - Microservice Architecture : https://github.com/katopz/best-practices/blob/master/best-practices-for-building-a-microservice-architecture.md
 - CI/CD
 - Quality Assurance : Automate test
