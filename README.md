@@ -23,6 +23,7 @@ Will contain jobs description and what aim to be.
 - Lint : `eslint:recommended`, `plugin:react/recommended`
 - Standard JavaScript Format : https://marketplace.visualstudio.com/items?itemName=chenxsan.vscode-standard-format
 - Standard Style : https://marketplace.visualstudio.com/items?itemName=chenxsan.vscode-standardjs
+- Docker linter : https://github.com/replicatedhq/dockerfilelint
 
 # Test Tools
 - Speed : https://developers.google.com/speed/pagespeed/insights/
