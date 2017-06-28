@@ -15,6 +15,7 @@ Will contain jobs description and what aim to be.
 - Web Performance : https://developers.google.com/web/fundamentals/performance/
 - Web Security : https://developers.google.com/web/fundamentals/security/
 - Test : https://medium.com/@talkol/redux-testing-step-by-step-a-simple-methodology-for-testing-business-logic-8901670756ce
+- Design Patterns : https://madhuraoakblog.wordpress.com/2017/03/01/design-patterns-revisiting-gang-of-four/
 
 # Tools
 - VSCode : https://code.visualstudio.com/
