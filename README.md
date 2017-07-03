@@ -48,6 +48,7 @@ Will contain jobs description and what aim to be.
 - Production Environment : Secure, Speed, Scale, HA, ...
 - Functional Programming : [A Functional Programmer’s Introduction to JavaScript](https://medium.com/javascript-scene/a-functional-programmers-introduction-to-javascript-composing-software-d670d14ede30)
 - Functional Programming : [Functional Mixins](https://medium.com/javascript-scene/functional-mixins-composing-software-ffb66d5e731c)
+- Design Patterns : https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 
 # Full Stack + Wep
 - Feedly : https://tympanus.net/codrops/
