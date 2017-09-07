@@ -17,14 +17,17 @@ Will contain jobs description and what aim to be.
 - Test : https://medium.com/@talkol/redux-testing-step-by-step-a-simple-methodology-for-testing-business-logic-8901670756ce
 - Design Patterns : https://madhuraoakblog.wordpress.com/2017/03/01/design-patterns-revisiting-gang-of-four/
 
+# Coding Conventions
+- Lint : `eslint:recommended`, `plugin:react/recommended`
+- Standard JavaScript Format : https://marketplace.visualstudio.com/items?itemName=chenxsan.vscode-standard-format
+- Standard Style : https://marketplace.visualstudio.com/items?itemName=chenxsan.vscode-standardjs
+
 # Tools
 - VSCode : https://code.visualstudio.com/
 - RoboMongo : https://robomongo.org/
 - Medis : https://github.com/luin/medis
-- Lint : `eslint:recommended`, `plugin:react/recommended`
-- Standard JavaScript Format : https://marketplace.visualstudio.com/items?itemName=chenxsan.vscode-standard-format
-- Standard Style : https://marketplace.visualstudio.com/items?itemName=chenxsan.vscode-standardjs
 - Docker linter : https://github.com/replicatedhq/dockerfilelint
+- Logs & Monitoring : https://github.com/influxdata/TICK-docker
 
 # Test Tools
 - Speed : https://developers.google.com/speed/pagespeed/insights/
