@@ -75,6 +75,7 @@ Will contain jobs description and what aim to be.
 # Full Stack + Backend
 - Feedly : https://blog.risingstack.com/ , https://nodesource.com/blog
 - Digital Ocean : Domain Name Setup, EMail Setup, Floating IP, Block Storage
+- Google Cloud Services / Storage / Snapshots / Image Registry
 - NodeJS : fs, Process
 - ExpressJS
 - PassportJS
@@ -82,6 +83,7 @@ Will contain jobs description and what aim to be.
 - Redis
 - Pub/Sub
 - Nginx : TLS (CertBot), Proxy Forward, Secure Header
+- Kubernetes / Helm / Chart
 - Docker : Docker Swarm Mode, Docker Machine, Docker Stacks, Docker Secret
 - Docker Driver : https://hackernoon.com/how-to-properly-run-docker-on-rhel-and-friends-d055754414e5#.1z2ps9ycr
 
