@@ -3,7 +3,7 @@
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
 # DDT - Digithun Developer Team
-Will contain jobs description and what aim to be.
+Will contain jobs descriptions and what we love.
 
 # Prerequisites
 - Feedly : https://hackernoon.com/
@@ -103,3 +103,12 @@ Will contain jobs description and what aim to be.
 - Blue/Green Deployment : https://botleg.com/stories/blue-green-deployment-with-docker/
 - cAdvisor/influxDB/Grafana : https://botleg.com/stories/monitoring-docker-swarm-with-cadvisor-influxdb-and-grafana/
 - Monitoring : https://github.com/firehol/netdata
+
+# Data Analysis
+- BigQuery
+- Tableau
+
+# Blockchain Developer
+- Understatnd full node, chain data, mining
+- Stellar : https://www.stellar.org/
+- Hyperleadger : https://www.hyperledger.org/
