@@ -86,6 +86,7 @@ Will contain jobs descriptions and what we love.
 - Kubernetes / Helm / Chart
 - Docker : Docker Swarm Mode, Docker Machine, Docker Stacks, Docker Secret
 - Docker Driver : https://hackernoon.com/how-to-properly-run-docker-on-rhel-and-friends-d055754414e5#.1z2ps9ycr
+- Go
 
 ![fee99542-microservices-hierarchy-of-needs](https://user-images.githubusercontent.com/97060/27008143-5898b092-4e94-11e7-9a4c-74c625562108.png)
 
@@ -109,6 +110,7 @@ Will contain jobs descriptions and what we love.
 - Tableau
 
 # Blockchain Developer
+- Go
 - Understatnd full node, chain data, mining
 - Stellar : https://www.stellar.org/
-- Hyperleadger : https://www.hyperledger.org/
+- Hyperledger : https://www.hyperledger.org/
