@@ -116,3 +116,7 @@ Will contain jobs descriptions and what we love.
 - Understatnd full node, chain data, mining
 - Stellar : https://www.stellar.org/
 - Hyperledger : https://www.hyperledger.org/
+
+# Playground
+- [Play with Kubernetes Classroom](https://training.play-with-kubernetes.com/)
+- [Blockchain for Business - An Introduction to Hyperledger Technologies](https://www.edx.org/course/blockchain-business-introduction-linuxfoundationx-lfs171x)
