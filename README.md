@@ -18,6 +18,7 @@ Will contain jobs descriptions and what we love.
 - Web Security : https://developers.google.com/web/fundamentals/security/
 - Test : https://medium.com/@talkol/redux-testing-step-by-step-a-simple-methodology-for-testing-business-logic-8901670756ce
 - Design Patterns : https://madhuraoakblog.wordpress.com/2017/03/01/design-patterns-revisiting-gang-of-four/
+- Authentications : https://oauth.net/2/
 
 # Coding Conventions
 - Lint : `eslint:recommended`, `plugin:react/recommended`
@@ -48,7 +49,7 @@ Will contain jobs descriptions and what we love.
 - Apollo : http://dev.apollodata.com/
 - GraphQL Compose : https://github.com/nodkz/graphql-compose
 - MongoDB : [Mongoose](http://mongoosejs.com/)
-- Prisma : [Prisma](https://www.prisma.io/)
+- Prisma : https://www.prisma.io/
 - Docker : Docker file, Docker Compose 3.1, ...
 - Development Environment : Development Server, HMR, ...
 - Production Environment : Secure, Speed, Scale, HA, ...
@@ -79,7 +80,7 @@ Will contain jobs descriptions and what we love.
 - Feedly : https://blog.risingstack.com/ , https://nodesource.com/blog
 - Digital Ocean : Domain Name Setup, EMail Setup, Floating IP, Block Storage
 - Google Cloud Services / Storage / Snapshots / Image Registry
-- NodeJS : fs, Process
+- NodeJS : pm2
 - ExpressJS
 - PassportJS
 - MongoDB : Mongoose, Pooling, Replication, Sharding, Capped Collections, ...
@@ -109,13 +110,15 @@ Will contain jobs descriptions and what we love.
 - Monitoring : https://github.com/firehol/netdata
 
 # Data Analysis
-- BigQuery
-- Tableau
+- BigQuery : https://cloud.google.com/bigquery/
+- Tableau : https://www.tableau.com/
 
 # Blockchain Developer
-- Go
+- NodeJS
+- Go : https://golang.org/
 - Understatnd full node, chain data, mining
 - Stellar : https://www.stellar.org/
+- IPFS : https://ipfs.io/
 - Hyperledger : https://www.hyperledger.org/
 
 # Playground
