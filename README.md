@@ -64,6 +64,7 @@ Will contain jobs descriptions and what we love.
 - React : https://vasanthk.gitbooks.io/react-bits/
 - NextJS : https://github.com/zeit/next.js
 - Style : https://github.com/styled-components/styled-components
+- CDN : https://www.cloudflare.com/
 
 # Full Stack + Mobile
 - Feedly : https://blog.prototypr.io/
