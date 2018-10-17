@@ -49,6 +49,7 @@ Will contain jobs descriptions and what we love.
 - Apollo : http://dev.apollodata.com/
 - GraphQL Compose : https://github.com/nodkz/graphql-compose
 - MongoDB : [Mongoose](http://mongoosejs.com/)
+- PostgreSQL : https://www.postgresql.org/
 - Prisma : https://www.prisma.io/
 - Docker : Docker file, Docker Compose 3.1, ...
 - Development Environment : Development Server, HMR, ...
@@ -85,13 +86,14 @@ Will contain jobs descriptions and what we love.
 - ExpressJS
 - PassportJS
 - MongoDB : Mongoose, Pooling, Replication, Sharding, Capped Collections, ...
+- PostgreSQL : https://www.postgresql.org/
 - Redis
 - Pub/Sub
 - Nginx : TLS (CertBot), Proxy Forward, Secure Header
 - Kubernetes / Helm / Chart
 - Docker : Docker Swarm Mode, Docker Machine, Docker Stacks, Docker Secret
 - Docker Driver : https://hackernoon.com/how-to-properly-run-docker-on-rhel-and-friends-d055754414e5#.1z2ps9ycr
-- Go
+- Go : https://golang.org/
 
 ![fee99542-microservices-hierarchy-of-needs](https://user-images.githubusercontent.com/97060/27008143-5898b092-4e94-11e7-9a4c-74c625562108.png)
 
@@ -115,7 +117,7 @@ Will contain jobs descriptions and what we love.
 - Tableau : https://www.tableau.com/
 
 # Blockchain Developer
-- NodeJS
+- NodeJS : https://nodejs.org
 - Go : https://golang.org/
 - Understatnd full node, chain data, mining
 - Stellar : https://www.stellar.org/
