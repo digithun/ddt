@@ -5,7 +5,7 @@
 # DDT - Digithun Developer Team
 Will contain jobs descriptions and what we love.
 
-![stellar-ddt](https://github.com/digithun/ddt/blob/master/art/Stellar_DDT.png?raw=true)
+![stellar-ddt](https://github.com/digithun/ddt/blob/master/art/stellar-training.png?raw=true)
 ![ddt-stack-v1 5 1](https://user-images.githubusercontent.com/97060/38129156-f4d79eae-3427-11e8-9334-81ba1f3e5701.png)
 
 # Prerequisites
