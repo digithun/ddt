@@ -21,6 +21,7 @@ Will contain jobs descriptions and what we love.
 - Design Patterns : https://madhuraoakblog.wordpress.com/2017/03/01/design-patterns-revisiting-gang-of-four/
 - Authentications : https://oauth.net/2/
 - Docker : https://www.raywenderlich.com/9159-docker-on-macos-getting-started
+- The Architecture of Open Source Applications : http://aosabook.org/en/index.html
 
 # Coding Conventions
 - Lint : `eslint:recommended`, `plugin:react/recommended`
