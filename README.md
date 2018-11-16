@@ -127,6 +127,7 @@ Will contain jobs descriptions and what we love.
 - Stellar : https://www.stellar.org/
 - IPFS : https://ipfs.io/
 - Hyperledger : https://www.hyperledger.org/
+- Paxos vs RAFT : https://blockonomi.com/paxos-raft-consensus-protocols/
 
 # Playground
 - [Play with Kubernetes Classroom](https://training.play-with-kubernetes.com/)
