@@ -1,6 +1,6 @@
-## Evaluation Guides
+# Evaluation Guides
 
-### Create Measuring Tools
+## Create Measuring Tools
 1. Blog at `medium.com` and publish to `DDT`
 1. Fill in following questions.
 - - -
@@ -17,7 +17,7 @@
 // More wage, more snacks,...
 
 - - -
-### Consensus Scoring
+## Consensus Scoring
 ![image](https://user-images.githubusercontent.com/97060/52560425-e5c66780-2e2a-11e9-8b79-bbcb9b720d42.png)
 1. Score yourself (as `Alice`)
 1. Select someone (as `Bob`) to score yourself
