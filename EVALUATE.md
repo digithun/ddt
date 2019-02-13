@@ -6,7 +6,7 @@
 1. Backend (maybe `Golang`, `NodeJS`, `MongoDB`, `PostgreSQL`, ...)
 1. DevOps (maybe `Kubernetes`, `Docker`, ...)
 1. EdgeTech (maybe `Blockchain`, `AI/ML`, `IoT`, `Edge Computing`, `Quantum`, ...)
-1. SoftSkill (tell what you think about peer, score base on your guts!)
+1. SoftSkill (`Communication`, `Team Player`, `Leadership`, `Time Management`, `Decision Making`)
 - - -
 ## Consensus Scoring by Measuring Tools
 ### Peer Reviews
