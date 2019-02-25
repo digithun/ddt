@@ -1,7 +1,7 @@
 # Evaluation Guides
 
 ## Create Measuring Tools
-> Create questions and answers on your own private github by folling below topics
+> Create questions and answers on your own private github by following below topics
 1. Frontend (maybe `React`, `js`, `HTML`, ...)
 1. Backend (maybe `Golang`, `NodeJS`, `MongoDB`, `PostgreSQL`, ...)
 1. DevOps (maybe `Kubernetes`, `Docker`, ...)
