@@ -1,12 +1,13 @@
 # Evaluation Guides
 
 ## Create Measuring Tools
-> Create questions and answers on your own private github by following below topics
+> Create blog on medium that reflect yourself about below topics
 1. Frontend (maybe `React`, `js`, `HTML`, ...)
 1. Backend (maybe `Golang`, `NodeJS`, `MongoDB`, `PostgreSQL`, ...)
 1. DevOps (maybe `Kubernetes`, `Docker`, ...)
 1. EdgeTech (maybe `Blockchain`, `AI/ML`, `IoT`, `Edge Computing`, `Quantum`, ...)
 1. SoftSkill (`Communication`, `Team Player`, `Leadership`, `Time Management`, `Decision Making`)
+
 - - -
 ## Consensus Scoring by Measuring Tools
 ### Peer Reviews
