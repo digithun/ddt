@@ -1,6 +1,6 @@
 ## Project review
 
-### Shop2Pay
+## Shop2Pay
 #### Member 
 - Everyone
 
@@ -10,7 +10,7 @@
 - การทำ API Management
 - การทำ Payment portal, security ของ การทำ payment API
 
-### Reeeed
+## Reeeed
 #### Member
 - Art ( Project Lead )
 - Oe
@@ -40,7 +40,7 @@
 - Ecommerce digital payment
 
 
-### Love
+## Love
 - Tae
 - Aim
 - Mai
@@ -60,7 +60,7 @@
 - Networking design บน AWS Cloud
 - การ Setup Stellar node
 
-### Major
+## Major
 - Tae
 - Art
 - Ball
@@ -74,7 +74,7 @@
 - การทำงานกับ contact ที่ไม่สื่อสาร context เฉพาะออกมาครบถ้วน
 - การทำงานกับ requirement ที่ไม่ชัดเจนและ การทำงานกับการแก้ปัญหาของการไม่มีคน confirm requirement
 
-### Major (outsource)
+## Major (outsource)
 - Oe
 
 ### Summary
@@ -84,7 +84,7 @@ Implement report ของระบบที่เค้ามีอยู่แ
 - Method of working ของ Major ไม่เข้าใจระบบการ Outsource แบบแยกโปรเจค
 - การทำงานกับ Culture ของพนักงาน Routine
 
-### Chaiyo POC
+## Chaiyo POC
 - Mai
 - Aim
 
