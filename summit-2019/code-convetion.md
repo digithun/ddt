@@ -1,7 +1,7 @@
 ## Code convention
-- Typescript (100%)
-- Golang (Primary, ตอนนี้ขาด Pair)
-- CSS (100%)
+- Typescript (เป็นทุกคน)
+- Golang (Primary lang, ตอนนี้ขาด Pair ที่ยังไม่เคยทำ)
+- CSS ( เป็นทุกคนแล้ว )
 - Kotlin (Mike, Pair)
 - Swift (Pair, Aim)
 
