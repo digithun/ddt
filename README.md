@@ -64,10 +64,11 @@ Will contain jobs descriptions and what we love.
 - Functional Programming : [Functional Mixins](https://medium.com/javascript-scene/functional-mixins-composing-software-ffb66d5e731c)
 - Design Patterns : https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 
-# Full Stack + Wep
+# Full Stack + Web
 - Feedly : https://tympanus.net/codrops/
 - Feedly : https://www.sitepoint.com/
 - React : https://vasanthk.gitbooks.io/react-bits/
+- TypeScript : https://www.typescriptlang.org/
 - NextJS : https://github.com/zeit/next.js
 - Style : https://github.com/styled-components/styled-components
 - CDN : https://www.cloudflare.com/
