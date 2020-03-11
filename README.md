@@ -74,7 +74,7 @@ Will contain jobs descriptions and what we love.
 
 # Full Stack + Mobile
 - Feedly : https://blog.prototypr.io/
-- React Native
+- iOS - Swift and Android - Kotlin
 - Style : https://github.com/styled-components/styled-components
 - Offline First
 
