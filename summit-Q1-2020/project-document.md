@@ -1,0 +1,15 @@
+- convention.md ของแต่ละ Project
+- software architecture
+- software requirement specification
+  - requirement scope
+    - functional requirement
+    - non-functional requirement
+  - architecture
+  - timeline + cost คร่าวๆ
+- api doc
+- data dict
+- manual guide
+  - deployment
+  - how to use ?
+- ER
+- Role permission
