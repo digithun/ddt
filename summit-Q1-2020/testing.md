@@ -1,0 +1,14 @@
+- Frontend
+  - Storybook for UI
+    - Storyshot
+  - Integration Test
+    - อยากใช้ Storybook คู่กับ ui test runner (cypass, cucumber) [BDD]
+  - Stateful Component
+    - ให้ใช้ enzyme/React.render test state
+- Backend
+  - Integration
+    - test ตาม uat ได้
+  - Unit Test
+    - test logic ตาม usecase, repository
+  - Coverage minimum 50% [new project]
+  - New code coverage ต้องห้ามลดลงน้อยกว่า 1%
